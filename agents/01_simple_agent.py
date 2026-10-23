@@ -5,7 +5,6 @@ import re
 from typing import Any, Callable, Dict, List
 
 from openai import OpenAI
-
 from utils.config import settings
 
 
